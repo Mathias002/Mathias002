@@ -1,7 +1,3 @@
-<html>
-
-<head><link href="/style-readme.css" rel="stylesheet"></head> 
-
 <h1 align="center">Salut 👋 ! Mathias Mousset</h1>
 <h3 align="center">DÉVELOPPEUR X ÉTUDIANT</h3>
 
@@ -91,5 +87,3 @@
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
 </a> 
-
-</html>
