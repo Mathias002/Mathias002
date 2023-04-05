@@ -21,17 +21,7 @@
 </a>
 </p>
 
-<style>
-    
-    .text{
-        display:flex;
-        gap:10px;
-    }
-
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
-<div class="text">
 <p align="center"> 
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -98,6 +88,6 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
 </a> 
 </p>
-</div>
+
 
 
