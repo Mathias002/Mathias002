@@ -1,4 +1,5 @@
-p{
+.list__languages__tools{
   display: flex;
+  text-align:left;
   gap: 10px; 
 }
