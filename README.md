@@ -23,7 +23,7 @@
 
 <style>
     
-    p{
+    .text{
         display:flex;
         gap:10px;
     }
