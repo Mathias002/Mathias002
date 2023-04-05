@@ -1,5 +1,5 @@
 <html>
-<head><link href="style-readme.css" rel="stylesheet"></head> 
+<head><link href="./style-readme.css" rel="stylesheet"></head> 
 <h1 align="center">Salut 👋 ! Mathias Mousset</h1>
 <h3 align="center">DÉVELOPPEUR X ÉTUDIANT</h3>
 
