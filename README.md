@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋 ! Mathias Mousset</h1>
+<h1 align="center">Salut 👋 ! Mathias MOUSSET</h1>
 <h3 align="center">DÉVELOPPEUR X ÉTUDIANT</h3>
 
 <h3 align="left">Connect with me:</h3>
